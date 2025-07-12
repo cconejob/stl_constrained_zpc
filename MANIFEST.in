@@ -1,0 +1,3 @@
+include requirements.txt
+recursive-include stl_constrained_zpc/models *
+recursive-include stl_constrained_zpc/plots *
